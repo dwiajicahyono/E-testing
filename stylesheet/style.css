@@ -2,6 +2,11 @@
     font-family: 'Poppins', sans-serif;
     color: #196533 !important;
 }
+body{
+    background-image: url("vektor.png");
+    background-size: 90px;
+    background-repeat: repeat;
+}
 .info{
     background-color: #6ABD45 !important;
     color:#F5F5F5 !important;
