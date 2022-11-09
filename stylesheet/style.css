@@ -33,3 +33,7 @@ body{
 .center{
     text-align: center;
 }
+.info_pola{
+    font-size: 12px;
+    text-align: justify;
+}
